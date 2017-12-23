@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.schedule-container {
+     min-width: 600px;
+}
+
+.input-container {
+     min-width: 600px;
+
+}
+
+ h1, h2, h3 {
+        font-family: 'Tinos', serif;
+        text-shadow: 3px 2px 2px #333333;
+        color: white;
+
+
+ }
+ body {
+        background: url('../img/PG_Gladstone_Station_1908.jpg') no-repeat center center fixed;
+        background-size: cover;
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+
+}
+
+
+
+.jumbotron {
+     color: white;
+     background-color: rgba(0,0,0, 0.05);
+     min-width: 800px;
+     max-width: 1800px;
+     opacity: 100;
+}
